@@ -1,5 +1,6 @@
-# respon_adap
-
+# Responsive and Adaptive
+In this Project we will see how Responsive and Adaptive apps are work in different screens in different operating systems , i used here layoutBuilder, expanded widget, aspected ratio and media query for responsiveness.
+You will changed different screens from main.dart file inside materialApp.
 A new Flutter project.
 
 ## Getting Started
